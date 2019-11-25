@@ -1,2 +1,2 @@
-# algorithmic-toolbox
-Algorithmic Toolbox code for Coursera
+# Scripts for Specialization
+Several folders one for each specialization course
