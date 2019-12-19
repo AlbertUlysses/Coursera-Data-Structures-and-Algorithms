@@ -2,6 +2,9 @@
 import sys
 
 def get_change(m):
+    coins = [1, 3, 4]
+    if m in coins:
+        return m
     #write your code here
     return m // 4
 
