@@ -1,2 +1,8 @@
-# Scripts for Specialization
-Each folder is for a different course in the specialization. Each specialization has it's own sub-folders of the weeks (numbered by the course.)
+# Data Structures and Algorithms
+This Repo stores all the coding answers to Coursera's Data Structures and Algorithms Specialization.
+All answers are in Python.
+Each folder has a differnt course in the specialization.
+Each specialization has it's own set of sub-folders for each week.
+## Course 1: Algorithmic Toolbox
+
+
