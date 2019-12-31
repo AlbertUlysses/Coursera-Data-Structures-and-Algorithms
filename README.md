@@ -6,3 +6,5 @@ Each specialization has it's own set of sub-folders for each week.
 ## Course 1: Algorithmic Toolbox
 
 ## Course 2: Data Structures
+
+## Course 3: Algorithms on Graphs
